@@ -1,0 +1,28 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "assignment for weekend1",
+  "main": "expressserver.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node expressserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitpati/nodeAssignment.git"
+  },
+  "keywords": [
+    "nodeassignment",
+    "amit"
+  ],
+  "author": "Amit Kumar Pati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitpati/nodeAssignment/issues"
+  },
+  "homepage": "https://github.com/amitpati/nodeAssignment#readme"
+}
